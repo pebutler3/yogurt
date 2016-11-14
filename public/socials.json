@@ -1,0 +1,4 @@
+[
+    { "id": 0, "name" : "twitter", "url" : "https://twitter.com", "icon": "fa fa-twitter"},
+    { "id" : 1, "name" : "facebook", "url" : "https://facebook.com", "icon": "fa fa-facebook"}
+]
