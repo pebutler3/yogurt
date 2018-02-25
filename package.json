@@ -2,13 +2,12 @@
   "name": "yogurt",
   "version": "0.1.0",
   "private": true,
-  "devDependencies": {
-    "react-scripts": "0.7.0"
-  },
   "dependencies": {
+    "ajv": "^6.1.1",
     "jquery": "^3.1.1",
-    "react": "^15.3.2",
-    "react-dom": "^15.3.2"
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
